@@ -1,0 +1,29 @@
+.chat
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    height: 60px;
+    align-items: center;
+    border-bottom: 1px solid #fafafa;
+}
+.chat__details{
+    flex: 2;
+    margin-left: 20px;
+}
+.chat__details > p{
+    color:gray
+}
+.chat__timeStamp{
+    color: lightgray;
+    margin-right: auto;
+}
+.MuiListItem-root
+{
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex !important;
+    
+
+}
