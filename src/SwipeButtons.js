@@ -16,6 +16,7 @@ function SwipeButtons() {
             <IconButton className="swipebuttons__star"><StarRateIcon fontSize="large" /></IconButton> 
             <IconButton className="swipebuttons__right"><FavoriteIcon fontSize="large"/></IconButton> 
             <IconButton className="swipebuttons__flash"> <FlashOnIcon fontSize="large"/></IconButton>
+        
            
            
            
